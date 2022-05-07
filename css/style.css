@@ -1,0 +1,29 @@
+ 
+.apple{
+    width: 35%;
+}
+
+.play{
+    width: 35%;
+}
+
+.hr{
+    z-index: -1;
+}
+
+.header{
+    z-index: 1000;
+}
+    
+#nav{
+    color: #8993A4;
+}
+
+.atia{
+    width: 10%;
+}
+
+.ubutton:hover{
+    text-decoration: underline !important;
+}
+
